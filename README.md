@@ -1,0 +1,2 @@
+# pages
+Sibersözlük Cloudflare Pages
